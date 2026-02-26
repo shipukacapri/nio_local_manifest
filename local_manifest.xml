@@ -6,7 +6,7 @@
       path="device/motorola/nio"
       name="shipukacapri/android_device_motorola_nio"
       remote="github"
-      revision="inf-qp2" />
+      revision="luna-qp2" />
 
  <!-- Common device tree for sm8250 platform (your fork) -->
   <project
