@@ -13,7 +13,7 @@
       path="device/motorola/sm8250-common"
       name="shipukacapri/android_device_motorola_sm8250-common"
       remote="github"
-      revision="dolby" />
+      revision="dolby-23.2" />
 
    <!-- Kernel tree (your fork) -->
   <project
