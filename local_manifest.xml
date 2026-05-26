@@ -6,14 +6,14 @@
       path="device/motorola/nio"
       name="shipukacapri/android_device_motorola_nio"
       remote="github"
-      revision="pixel" />
+      revision="inf-qp2" />
 
  <!-- Common device tree for sm8250 platform (your fork) -->
   <project
       path="device/motorola/sm8250-common"
       name="shipukacapri/android_device_motorola_sm8250-common"
       remote="github"
-      revision="pixel-dolby" />
+      revision="inf-dolby" />
 
    <!-- Kernel tree (your fork) -->
   <project
