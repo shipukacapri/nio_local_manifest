@@ -6,21 +6,21 @@
       path="device/motorola/nio"
       name="shipukacapri/android_device_motorola_nio"
       remote="github"
-      revision="pixel" />
+      revision="pixel-erofs" />
 
  <!-- Common device tree for sm8250 platform (your fork) -->
   <project
       path="device/motorola/sm8250-common"
       name="shipukacapri/android_device_motorola_sm8250-common"
       remote="github"
-      revision="pixel-dolby" />
+      revision="pixel-dolby-erofs" />
 
    <!-- Kernel tree (your fork) -->
   <project
       path="kernel/motorola/sm8250"
-      name="LineageOS/android_kernel_motorola_sm8250"
+      name="shipukacapri/android_kernel_motorola_sm8250"
       remote="github"
-      revision="lineage-23.2" />
+      revision="erofs" />
 
   
   <!-- Vendor blobs for nio  -->
