@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
+  <remote
+        name="github"
+        fetch="https://github.com/" />
   
   <!-- Device tree for Motorola G100 / Edge S (nio) (your fork) -->
   <project
       path="device/motorola/nio"
       name="shipukacapri/android_device_motorola_nio"
       remote="github"
-      revision="inf-qp2" />
+      revision="voltage" />
 
  <!-- Common device tree for sm8250 platform (your fork) -->
   <project
       path="device/motorola/sm8250-common"
       name="shipukacapri/android_device_motorola_sm8250-common"
       remote="github"
-      revision="inf-dolby" />
+      revision="voltage-dolby" />
 
    <!-- Kernel tree (your fork) -->
   <project
